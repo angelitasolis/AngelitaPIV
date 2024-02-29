@@ -1,4 +1,4 @@
-# Tareas por hacer
+git remote set-url origin https://git-repo/new-repository.git# Tareas por hacer
 
 1. Cambie las etiquetas y texto a español, utilize chatgpt para generar los que requiera
 1. Separe el css en una nueva hoja de estilo llamada style.css, ubiquela en una carpeta para mayor orden.
